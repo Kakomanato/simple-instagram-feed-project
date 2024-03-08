@@ -1,0 +1,70 @@
+/* Shared Font Styles */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2, p, h3, a {
+    color: black;
+}
+
+/* Title Styles */
+#title {
+    color: black;
+    font-size: larger;
+    text-align: center;
+}
+
+/* List Styles */
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    background-color: lightgray;
+}
+
+/* List Item Styles */
+li {
+    display: flex;
+    background-color: whitesmoke;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+/* Heading Styles */
+h2 {
+    font-size: large;
+    display: inline-block;
+    margin-right: auto;
+    padding-left: 5px;
+}
+
+/* Paragraph Styles */
+p {
+    font-size: small;
+    padding: 5px;
+    margin: auto;
+}
+
+/* Subheading Styles */
+h3 {
+    font-size: smaller;
+    color: gray;
+    display: inline-block;
+    margin-left: auto;
+    float: right;
+    padding-right: 5px;
+}
+
+/* Image Styles */
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+/* Link Styles */
+a {
+    font-weight: bold;
+    text-decoration: none;
+}
